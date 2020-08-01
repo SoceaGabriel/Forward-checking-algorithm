@@ -1,0 +1,36 @@
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\bin\Debug\MapColoring.exe.config
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\bin\Debug\MapColoring.exe
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\bin\Debug\MapColoring.pdb
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\obj\Debug\MapColoring.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\obj\Debug\MapColoring.Form1.resources
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\obj\Debug\MapColoring.Properties.Resources.resources
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\obj\Debug\MapColoring.csproj.GenerateResource.cache
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\obj\Debug\MapColoring.exe
+C:\Users\Marius\source\repos\MapColoring\MapColoring\MapColoring\obj\Debug\MapColoring.pdb
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\bin\Debug\MapColoring.exe.config
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\obj\Debug\MapColoring.exe
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\obj\Debug\MapColoring.pdb
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\bin\Debug\MapColoring.exe
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\bin\Debug\MapColoring.pdb
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\obj\Debug\MapColoring.csprojResolveAssemblyReference.cache
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\obj\Debug\MapColoring.Form1.resources
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\obj\Debug\MapColoring.Properties.Resources.resources
+C:\Users\Gabi Socea\Desktop\MapColoring\MapColoring\obj\Debug\MapColoring.csproj.GenerateResource.Cache
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\bin\Debug\MapColoring.exe.config
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.exe
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.pdb
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\bin\Debug\MapColoring.exe
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\bin\Debug\MapColoring.pdb
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.csprojResolveAssemblyReference.cache
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.Form1.resources
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.Properties.Resources.resources
+C:\Users\Gabi Socea\Desktop\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.csproj.GenerateResource.Cache
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\bin\Debug\MapColoring.exe.config
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.exe
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.pdb
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\bin\Debug\MapColoring.exe
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\bin\Debug\MapColoring.pdb
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.Form1.resources
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.Properties.Resources.resources
+D:\Facultate\Anul 4\Semestrul 1\Inteligenta artificiala\Proiect_IA\MapColoring\MapColoring\obj\Debug\MapColoring.csproj.GenerateResource.Cache
